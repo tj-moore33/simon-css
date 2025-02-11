@@ -2,8 +2,8 @@ import React from "react";
 
 export function Scores(){
     return (
-        <main calssName='container-fluid bg-secondary text-center'>
-            <div>login displayed here</div>
+        <main className='container-fluid bg-secondary text-center'>
+            <div>scores displayed here</div>
              </main>
     );
 }

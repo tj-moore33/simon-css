@@ -2,8 +2,8 @@ import React from "react";
 
 export function About(){
     return (
-        <main calssName='container-fluid bg-secondary text-center'>
-            <div>login displayed here</div>
+        <main className='container-fluid bg-secondary text-center'>
+            <div>about displayed here</div>
              </main>
     );
 }
